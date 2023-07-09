@@ -17,13 +17,13 @@ git clone https://github.com/dzungdinh94/hailstone-lab-assignment
 
 ```sh
 cd server
-npm install
+npm install --force
 ```
 
 Run it in the root of project:
 
 ```sh
-npm install
+npm install --force
 ```
 
 ### Running the app
