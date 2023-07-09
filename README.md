@@ -18,7 +18,11 @@ git clone https://github.com/dzungdinh94/hailstone-lab-assignment
 ```sh
 cd server
 npm install
-cd frontend
+```
+
+Run it in the root of project:
+
+```sh
 npm install
 ```
 
@@ -30,7 +34,7 @@ npm install
 npm run start
 ```
 
-2. To start the frontend, navigate to the frontend directory and run:
+2. To start the frontend, navigate to the root directory and run:
 
 ```sh
 npm run start
